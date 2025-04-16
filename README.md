@@ -17,7 +17,7 @@ I am currently a second year Computer Engineering student 🖥️ at the Nationa
 🌏 I am interested in geography in general - cities, food, and East Asian culture to be more specific. <br>
 🌐 I speak English, Mandarin, and Taizhou Wu natively. I also know some basic level of French but I am very rusty.
 
-See my study plan <a href="">here</a>!
+See my study plan [here](StudyPlan.md)!
 
 ---
 
