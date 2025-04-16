@@ -32,7 +32,7 @@ options (Easy, Medium, Hard) whereas the final is only available in one.
 I was responsible for the final map which involved some silly gimmicks, be sure to check it out if you're interested ;)
 
 Built using: Verilog, Basys 3 <br>
-Links: Repository (Pending Update) <br><br>
+Links: <a href="https://github.com/yangyi-zhu/EE2026/">Repository</a> <br><br>
 
 **📝 NoteUrSavings** <br>
 My team project for CS2113 - a CLI application designed to help manage personal finances.
